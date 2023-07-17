@@ -8,3 +8,6 @@
 -  Have skills in C++, C#, Databases.
 -  I’m looking to work as a game developer to polish myself more and gain new experiences.
 
+-  You can play some of the games on the below link:
+-  https://mehwishtariq.itch.io/
+
