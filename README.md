@@ -5,7 +5,7 @@
 
 -  I’m currently working to make my career in game development.
 -  Learning Unity.
--  Have skills in C++, C#, Databases.
+-  Have skills in C#, Databases.
 -  I’m looking to work as a game developer to polish myself more and gain new experiences.
 
 -  You can play some of the games on the below link:
